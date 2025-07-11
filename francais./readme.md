@@ -9,13 +9,3 @@ vous devez danser.
 votre inné sentir sheitan = vous pouvez immobiliser.
 
 votre inné sentir sheitan = vous devez leurer pendant 3 minutes.
-
-# bigbang.
-
-bavoir.
-
-devoir.
-
-pouvoir.
-
-savoir.
