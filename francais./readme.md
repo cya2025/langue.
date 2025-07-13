@@ -1,7 +1,5 @@
 # liberté éternel.
 
-dire i = vous ètes loyal.
-
 là = vous devez conscientiser vos pieds.
 
 vous devez danser.
